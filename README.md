@@ -16,9 +16,9 @@ I have a bachelor’s degree in Classical Studies from Earlham College, and expe
 * Developed a web app for use with the #MyVanityFairCover hashtag: http://www.noelleanthony.com/MyVanityFairCover/
 * Consulted with clients on user experience under the brand The Delightworks.
 * Selected clients include:
-** Elizabeth McCoy, author: http://www.elizabeth-mccoy.com
-** Genevieve Cogman, author: http://www.grcogman.com
-** The Fluent Self: http://www.the uentself.com
+    * Elizabeth McCoy, author: http://www.elizabeth-mccoy.com
+    * Genevieve Cogman, author: http://www.grcogman.com
+    * The Fluent Self: http://www.the uentself.com
 
 #### Developer and Customer Relations - IttyBiz - December 2010-January 2012
 * Developed WordPress theme and plugins for the IttyBiz website, http://www.ittybiz.com
