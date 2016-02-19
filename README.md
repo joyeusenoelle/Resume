@@ -18,7 +18,7 @@ I have a bachelor’s degree in Classical Studies from Earlham College, and expe
 * Selected clients include:
     * Elizabeth McCoy, author: http://www.elizabeth-mccoy.com
     * Genevieve Cogman, author: http://www.grcogman.com
-    * The Fluent Self: http://www.the uentself.com
+    * The Fluent Self: http://www.thefluentself.com
 
 #### Developer and Customer Relations - IttyBiz - December 2010-January 2012
 * Developed WordPress theme and plugins for the IttyBiz website, http://www.ittybiz.com
