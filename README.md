@@ -5,7 +5,7 @@
 
 I’ve been working with computers for thirty years and programming for the web for twenty of those. I am well-versed in HTML, including HTML5, and Javascript, including ES6 and jQuery, on the front end, and PHP, Python, MySQL, and Apache on the back end; I have also worked with ColdFusion, ASP, and Ruby, as well as Node.js and Angular 1.0.
 
-I have a bachelor’s degree in Classical Studies from Earlham College, and experience in live theater - on and o  stage. Additionally, I have worked with statistics and data management, and am published both scholastically and in  ction. All of this helps me bring a unique perspective to my programming and development.
+I have a bachelor’s degree in Classical Studies from Earlham College, and experience in live theater - on and off stage. Additionally, I have worked with statistics and data management, and am published both scholastically and in fiction. All of this helps me bring a unique perspective to my programming and development.
 
 ## Experience
 #### Freelance Developer - January 2010-present
@@ -32,7 +32,7 @@ I have a bachelor’s degree in Classical Studies from Earlham College, and expe
 * Developed web-based data-collection instruments using ColdFusion and Microsoft IIS.
 
 #### Developer - Prometric/Thomson Learning - May-August 2000
-* Developed the company’s  rst intranet site, using ASP and MySQL, as the sole developer on the team.
+* Developed the company’s first intranet site, using ASP and MySQL, as the sole developer on the team.
 
 #### Web Developer - The Johns Hopkins University - August 1996-August 1997, May-August 1998
 * Developed some of the first websites for the Department of Mental Hygiene in the Bloomberg School of Public Health, under the guidance of the lead developer.
