@@ -1,7 +1,7 @@
 # Noëlle Anthony
 ### 765-889-2772
 ### noelle.d.anthony@gmail.com
-### https:/github.com/joyeusenoelle • http:/noelleanthony.com
+### https://github.com/joyeusenoelle • http://noelleanthony.com
 
 I’ve been working with computers for thirty years and programming for the web for twenty of those. I am well-versed in HTML, including HTML5, and Javascript, including ES6 and jQuery, on the front end, and PHP, Python, MySQL, and Apache on the back end; I have also worked with ColdFusion, ASP, and Ruby, as well as Node.js and Angular 1.0.
 
