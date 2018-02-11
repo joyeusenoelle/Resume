@@ -7,6 +7,8 @@ I’ve been working with computers for thirty years and programming for the web 
 
 I have a bachelor’s degree in Classical Studies from Earlham College, and experience in live theater - on and off stage. Additionally, I have worked with statistics and data management, and am published both scholastically and in fiction. All of this helps me bring a unique perspective to my programming and development.
 
+Since 2012, I've been working as a freelancer so that I could maintain my parents' house for them and, since I'm a single parent, make sure my son had the parental support he needed to grow up and finish high school. Now that he's about to graduate, I'm looking forward to rejoining the workforce on a more permanent basis.
+
 ## Experience
 #### Freelance Developer - January 2010-present
 * Designed and developed websites for clients, using HTML, PHP, Javascript/jQuery, and MySQL.
