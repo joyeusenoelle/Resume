@@ -10,9 +10,17 @@ I have a bachelor’s degree in Classical Studies from Earlham College, and expe
 Since 2012, I've been working as a freelancer so that I could maintain my parents' house for them and, since I'm a single parent, make sure my son had the parental support he needed to grow up and finish high school. Now that he's about to graduate, I'm looking forward to rejoining the workforce on a more permanent basis.
 
 ## Location
-I strongly prefer remote work, and (barring special requirements) do not need additional equipment to be able to work remotely. I will be happy to work in an office in the Baltimore County and City, MD area, but cannot relocate.
+I strongly prefer remote work, and (barring special requirements) do not need additional equipment to be able to work remotely. I will be happy to discuss relocation for the right employer.
 
 ## Experience
+#### Developer - Animal Farm Foundation - June 2018-present
+* Developed and altered themes for the WordPress CMS.
+* Managed a LAMP web server.
+
+#### Developer - Good Good Work - June 2018-present
+* Developed and altered themes for the WordPress CMS.
+* Migrated multiple WordPress websites into a single Multi-Site installation.
+
 #### Freelance Developer - January 2010-present
 * Designed and developed websites for clients, using HTML, PHP, Javascript/jQuery, and MySQL.
 * Developed themes and plugins for the WordPress CMS.
