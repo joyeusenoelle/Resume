@@ -1,3 +1,5 @@
+*Please note: this document is the most up-to-date version of this résumé. The associated PDF may not be current.*
+
 # Noëlle Anthony
 ### 765-889-2772
 ### noelle.d.anthony@gmail.com
