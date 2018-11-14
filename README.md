@@ -23,6 +23,16 @@ I strongly prefer remote work, and (barring special requirements) do not need ad
 * Developed and altered themes for the WordPress CMS.
 * Migrated multiple WordPress websites into a single Multi-Site installation.
 
+#### Moderator - Mastodon.Social Mastodon Instance - May 2017-present
+* Served as primary moderator for the flagship Mastodon instance
+* Handled abuse reports and user queries and requests
+
+#### Administrator - Elekk.XYZ Mastodon Instance - April 2017-present
+* Operated a Mastodon instance for 800+ users
+* Handles abuse reports and user queries and requests
+* Managed the server with systemctl, journalctl, etc.
+* Modified the server code with Ruby, Javascript, etc.
+
 #### Freelance Developer - January 2010-present
 * Designed and developed websites for clients, using HTML, PHP, Javascript/jQuery, and MySQL.
 * Developed themes and plugins for the WordPress CMS.
