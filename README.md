@@ -9,21 +9,24 @@ I’ve been working with computers for thirty years and programming for the web 
 
 I have a bachelor’s degree in Classical Studies from Earlham College, and experience in live theater - on and off stage. Additionally, I have worked with statistics and data management, and am published both scholastically and in fiction. All of this helps me bring a unique perspective to my programming and development.
 
-Since 2012, I've been working as a freelancer so that I could maintain my parents' house for them and, since I'm a single parent, make sure my son had the parental support he needed to grow up and finish high school. Now that he's about to graduate, I'm looking forward to rejoining the workforce on a more permanent basis.
+Since 2012, I've been working as a freelancer so that I could maintain my parents' house for them and, since I'm a single parent, make sure my son had the parental support he needed to grow up and finish high school. Now that he's graduated and moved out, I'm looking forward to rejoining the workforce on a more permanent basis.
 
 ## Location
-I strongly prefer remote work, and (barring special requirements) do not need additional equipment to be able to work remotely. I will be happy to discuss relocation for the right employer.
+I strongly prefer remote work, and (barring special requirements) do not need additional equipment to be able to work remotely. I cannot relocate at the moment.
 
 ## Experience
+#### Developer - A Bunch Tell, LLC - May 2019-present
+* Developed blog application software using the Go language.
+
 #### Developer - Animal Farm Foundation - June 2018-present
 * Developed and altered themes for the WordPress CMS.
 * Managed a LAMP web server.
 
-#### Developer - Good Good Work - June 2018-present
+#### Developer - Good Good Work - June 2018-December 2018
 * Developed and altered themes for the WordPress CMS.
 * Migrated multiple WordPress websites into a single Multi-Site installation.
 
-#### Moderator - Mastodon.Social Mastodon Instance - May 2017-present
+#### Moderator - Mastodon.Social Mastodon Instance - May 2017-May 2019
 * Served as primary moderator for the flagship Mastodon instance
 * Handled abuse reports and user queries and requests
 
