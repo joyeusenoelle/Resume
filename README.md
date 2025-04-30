@@ -17,8 +17,17 @@ I can only consider remote work. Barring special needs, I do not need extra equi
 ## Experience
 #### Senior Software Engineer - Evercommerce, Inc. - March 2023-present
 #### Contract Engineer - Evercommerce, Inc. - August 2021-February 2023
-* Performed in-depth troubleshooting and code and data analysis, developed and delivered new site features and bug fixes, interfaced with other teams to provide technical expertise, and guided and helped to manage more junior engineers, as technical lead and anchor of the Technical Escalations team
-* Developed and delivered new site features and bug fixes as part of the Platform/Architecture and Internal Tools team
+* As technical lead and anchor on the Technical Escalations team:
+  * Performed in-depth troubleshooting and code and data analysis
+  * Developed and delivered new site features and bug fixes
+  * Maintained a thorough knowledge of the full codebase for multiple repositories
+  * Interfaced extensively with other teams to provide technical expertise and develop new strategies and practices
+  * Guided and helped to manage more junior engineers
+* As a member of the Platform/Architecture and Internal Tools team:
+  * Developed and delivered new site features and bug fixes
+  * Maintained knowledge of the primary code base
+  * Created and maintained several microservices using Amazon AWS lambda functions and elastic container repositories
+  * Interfaced with other teams to ensure interoperability and best practices
 
 #### Developer - A Bunch Tell, LLC - May 2019-August 2021
 * Developed blog application software using the Go language.
